@@ -1,0 +1,130 @@
+body{
+  margin: 0px;
+}
+    .header{
+      height: 150px;
+      background-color: green;
+    }
+    
+.header h1{text-align: center;
+  color: white;
+  margin: 0px;
+  font-size: 70px;
+  padding: 40px;
+  text-shadow: 2px 2px 7px black;
+}
+  
+  .field1 fieldset{
+    margin-left: 50px;
+    margin-right:50px;
+    border-radius:10px;
+    background-color: lightblue;
+    box-shadow: 2px 2px 5px 
+  }
+    
+   .field1 legend{
+    color: red;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    padding:2px;
+    padding-left: 10px;
+    padding-right: 10px;
+   }
+   .sex1{ color: red;
+   }
+   .sex2{
+     color: blue;
+   }
+   
+   .field2 legend{
+     color: red;
+     background-color: white;
+     padding:10px;
+     border-radius: 10px;
+     padding: 2px;
+     padding-left: 10px;
+     padding-right: 10px;
+   }
+   .field2 fieldset{
+     background-color: darkseagreen;
+   }
+ 
+   
+   input[ type="submit"]{
+    padding: 5px;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    border-width: 15px;
+    
+   }
+   div[ class="end"]{
+     margin:0px;
+     padding:0px;
+     padding-left: 100px;
+     padding-right: 100px;
+     background-color: darkgray
+
+   }
+   .dep{
+     float: right;
+   }
+   .Env{
+     float: right;
+   }
+   .Sci{
+     float: right;
+   }
+   
+   .footer{
+     background-color: lightblue;
+     height: 50px;
+   }
+   
+   
+   
+   
+   
+  
+   
+     
+     
+     
+
+     
+    
+    
+   
+    
+    
+    
+    
+    
+
+
+
+   
+    
+    
+    
+
+
+
+
+
+  
+    
+    
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
