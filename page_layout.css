@@ -1,0 +1,44 @@
+body{
+  margin: 0px
+}
+.header{
+  background-color: green;
+  margin: 0px;
+  text-align: center;
+  padding: 10px;
+  font-size: 20px;
+  height: 120px;
+}
+  .header h1{
+    color: white;
+  }
+  .footer{
+    background-color: lightgreen;
+    height: 30px;
+    width: 100%;
+  }
+  .footer nav ul{
+    display: inline-flex;
+    list-style: none;
+    list-style: none;
+    float: right;
+    padding: 2px;
+    margin-top: 0px;
+    margin-right:50px;
+    
+  }
+  .footer nav ul li {
+    margin-right: 15px;
+  }
+  .footer nav ul li a {
+    text-decoration: none;
+    color: black;
+  }
+  .footer nav ul li a:hover{
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: green;
+    padding: 2px;
+    font-weight: bolder;
+  }
